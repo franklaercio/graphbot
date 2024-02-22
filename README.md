@@ -1,6 +1,9 @@
 ## Descrição
 Este projeto consiste em um bot para a plataforma Telegram que oferece funcionalidades de criação de questionários (quizzes) e enquetes (polls). Ele permite aos usuários interagirem com o bot através de comandos específicos para acessar essas funcionalidades.
 
+![Screenshot from 2024-02-22 01-44-37](https://github.com/franklaercio/graphbot/assets/38151364/a1b51a80-f0c0-48b9-88a0-34bda14d62e1)
+
+
 ## Funcionalidades
 O bot possui as seguintes funcionalidades principais:
 - **Quiz**: Permite criar e enviar questionários aos usuários, que podem responder às perguntas apresentadas.
